@@ -32,9 +32,3 @@ A simple object-oriented Sudoku game built using **React**, **TypeScript**, **Vi
 - [ ] Add Hint functionality
 - [ ] Implement Solve Board feature
 - [ ] Add keyboard navigation (arrow keys)
-
----
-
-## Credits
-
-- UI layout and CSS styling guided with help from **ChatGPT**
